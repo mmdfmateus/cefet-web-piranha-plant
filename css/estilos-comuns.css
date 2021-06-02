@@ -1,0 +1,18 @@
+body {
+    margin-left: 10%;
+    margin-right: 10%;
+
+    font-family: Arial,  sans-serif;
+    font-size: 14px;
+    text-align: justify;
+}
+
+h1, h2 {
+    font-family: 'Times New Roman', serif;
+    font-size: 28px;
+    color: limegreen;
+}
+
+h2 {
+    font-size: 22px;
+}
